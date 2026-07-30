@@ -9,6 +9,7 @@ I work on the infrastructure that keeps large platforms observable, cheap to run
 - 🛰️ Previously led OpenTelemetry adoption across 15+ services, cutting API latency 6x and on-call escalations 40%
 - 🌱 Maintaining [`ai-pipeline-orchestrator`](https://github.com/emmanuel-adu/ai-pipeline-orchestrator), an open-source TypeScript library for LLM pipelines
 - 🎓 M.S. CS (AI), Georgia Tech · B.S. Aeronautical & Astronautical Engineering, Ohio State
+- ⌨️ Neovim user - dotfiles in [kickstart-modular.nvim](https://github.com/emmanuel-adu/kickstart-modular.nvim) and [zsh-setup](https://github.com/emmanuel-adu/zsh-setup)
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/emmanuel-adu1)
 
 ## Featured Projects
@@ -51,6 +52,9 @@ No-login research paper search across arXiv, Semantic Scholar, and Crossref, wit
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 
 ## Beyond Software
 
