@@ -7,6 +7,7 @@ I work on the infrastructure that keeps large platforms observable, cheap to run
 - 🔭 Currently building sandbox infrastructure for **Databolt**, Capital One's data-tokenization platform, on EKS/Helm
 - 🛰️ Previously led OpenTelemetry adoption across 15+ services, cutting API latency 6x and on-call escalations 40%
 - 🌱 Maintaining [`ai-pipeline-orchestrator`](https://github.com/emmanuel-adu/ai-pipeline-orchestrator), an open-source TypeScript library for LLM pipelines
+- 🧠 Getting into edge AI - running embedding models client-side in the browser (WASM/WebGPU) in [paper-finder](https://github.com/emmanuel-adu/paper-finder)
 - 🎓 M.S. CS (AI), Georgia Tech · B.S. Aeronautical & Astronautical Engineering, Ohio State
 - ⌨️ Neovim user - dotfiles in [kickstart-modular.nvim](https://github.com/emmanuel-adu/kickstart-modular.nvim) and [zsh-setup](https://github.com/emmanuel-adu/zsh-setup)
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/emmanuel-adu1)
@@ -20,7 +21,7 @@ TypeScript orchestration library for LLM workflows - typed pipelines, composable
 Full-stack app (Next.js, tRPC, PostgreSQL) with Claude API tool calling and intent classification. 500+ conversations at 99.5% uptime.
 
 **[paper-finder](https://github.com/emmanuel-adu/paper-finder)**
-No-login research paper search across arXiv, Semantic Scholar, and Crossref, with a copy-to-LLM summarize prompt.
+No-login research paper search across arXiv, Semantic Scholar, and Crossref, with a copy-to-LLM summarize prompt. Semantic search runs fully client-side - a Hugging Face embedding model executes in-browser via transformers.js (WASM/WebGPU) in a Web Worker, no server round-trip.
 
 ## Tech Stack
 
@@ -51,6 +52,10 @@ No-login research paper search across arXiv, Semantic Scholar, and Crossref, wit
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
