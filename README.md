@@ -1,6 +1,6 @@
 # Emmanuel Adu
 
-**Senior Software Engineer** at Capital One — distributed systems and platform infrastructure on AWS.
+**=Software Engineer** at Capital One — distributed systems and platform infrastructure on AWS.
 M.S. Computer Science (AI), Georgia Tech.
 
 I work on the infrastructure that keeps large platforms observable, cheap to run, and fast to recover: OpenTelemetry rollouts across dozens of services, serverless migrations, and real-time data pipelines. Recent impact: **$2.4M+ in delivered savings**, MTTR cut from hours to minutes, and observability standardized across 10 teams and 40+ product domains.
