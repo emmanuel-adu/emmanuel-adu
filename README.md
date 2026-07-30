@@ -4,7 +4,6 @@
 
 I work on the infrastructure that keeps large platforms observable, cheap to run, and fast to recover
 
-- 🌱 Maintaining [`ai-pipeline-orchestrator`](https://github.com/emmanuel-adu/ai-pipeline-orchestrator), an open-source TypeScript library for LLM pipelines
 - 🧠 Getting into edge AI - running embedding models client-side in the browser (WASM/WebGPU) in [paper-finder](https://github.com/emmanuel-adu/paper-finder)
 - 🎓 M.S. CS (AI), Georgia Tech · B.S. Aeronautical & Astronautical Engineering, Ohio State
 - ⌨️ Neovim user - dotfiles in [kickstart-modular.nvim](https://github.com/emmanuel-adu/kickstart-modular.nvim) and [zsh-setup](https://github.com/emmanuel-adu/zsh-setup)
