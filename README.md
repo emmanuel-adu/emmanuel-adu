@@ -12,7 +12,7 @@ I work on the infrastructure that keeps large platforms observable, cheap to run
 ## Featured Projects
 
 **[ai-pipeline-orchestrator](https://github.com/emmanuel-adu/ai-pipeline-orchestrator)** ([npm](https://www.npmjs.com/package/ai-pipeline-orchestrator))
-TypeScript orchestration library for LLM workflows - typed pipelines, composable handlers, 30-50% token reduction via context optimization. 120+ monthly downloads.
+TypeScript orchestration library for LLM workflows - typed pipelines, composable handlers, 30-50% token reduction via context optimization.
 
 **[paper-finder](https://github.com/emmanuel-adu/paper-finder)**
 No-login research paper search across arXiv, Semantic Scholar, and Crossref, with a copy-to-LLM summarize prompt. Semantic search runs fully client-side - a Hugging Face embedding model executes in-browser via transformers.js (WASM/WebGPU) in a Web Worker, no server round-trip.
