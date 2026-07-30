@@ -1,6 +1,6 @@
 # Emmanuel Adu
 
-**=Software Engineer** at Capital One — distributed systems and platform infrastructure on AWS.
+**Software Engineer** at Capital One - distributed systems and platform infrastructure on AWS.
 M.S. Computer Science (AI), Georgia Tech.
 
 I work on the infrastructure that keeps large platforms observable, cheap to run, and fast to recover: OpenTelemetry rollouts across dozens of services, serverless migrations, and real-time data pipelines. Recent impact: **$2.4M+ in delivered savings**, MTTR cut from hours to minutes, and observability standardized across 10 teams and 40+ product domains.
@@ -14,7 +14,7 @@ I work on the infrastructure that keeps large platforms observable, cheap to run
 ## Featured Projects
 
 **[ai-pipeline-orchestrator](https://github.com/emmanuel-adu/ai-pipeline-orchestrator)** ([npm](https://www.npmjs.com/package/ai-pipeline-orchestrator))
-TypeScript orchestration library for LLM workflows — typed pipelines, composable handlers, 30-50% token reduction via context optimization. 120+ monthly downloads.
+TypeScript orchestration library for LLM workflows - typed pipelines, composable handlers, 30-50% token reduction via context optimization. 120+ monthly downloads.
 
 **AI-Powered Event Management Platform**
 Full-stack app (Next.js, tRPC, PostgreSQL) with Claude API tool calling and intent classification. 500+ conversations at 99.5% uptime.
