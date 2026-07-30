@@ -3,7 +3,7 @@
 **Software Engineer** at Capital One - distributed systems and platform infrastructure on AWS.
 M.S. Computer Science (AI), Georgia Tech.
 
-I work on the infrastructure that keeps large platforms observable, cheap to run, and fast to recover: OpenTelemetry rollouts across dozens of services, serverless migrations, and real-time data pipelines. Recent impact: **$2.4M+ in delivered savings**, MTTR cut from hours to minutes, and observability standardized across 10 teams and 40+ product domains.
+I work on the infrastructure that keeps large platforms observable, cheap to run, and fast to recover: OpenTelemetry rollouts across dozens of services, serverless migrations, and real-time data pipelines.
 
 - 🔭 Currently building sandbox infrastructure for **Databolt**, Capital One's data-tokenization platform, on EKS/Helm
 - 🛰️ Previously led OpenTelemetry adoption across 15+ services, cutting API latency 6x and on-call escalations 40%
