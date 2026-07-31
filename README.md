@@ -1,13 +1,5 @@
 # Emmanuel Adu
 
-**Software Engineer** at Capital One - distributed systems and platform infrastructure on AWS.
-
-I work on the infrastructure that keeps large platforms observable, cheap to run, and fast to recover
-
-- 🧠 Getting into edge AI - running embedding models client-side in the browser (WASM/WebGPU) in [paper-finder](https://github.com/emmanuel-adu/paper-finder)
-- 🎓 M.S. CS (AI), Georgia Tech · B.S. Aeronautical & Astronautical Engineering, Ohio State
-- ⌨️ Neovim user - dotfiles in [kickstart-modular.nvim](https://github.com/emmanuel-adu/kickstart-modular.nvim) and [zsh-setup](https://github.com/emmanuel-adu/zsh-setup)
-
 ## Featured Projects
 
 **[ai-pipeline-orchestrator](https://github.com/emmanuel-adu/ai-pipeline-orchestrator)** ([npm](https://www.npmjs.com/package/ai-pipeline-orchestrator))
