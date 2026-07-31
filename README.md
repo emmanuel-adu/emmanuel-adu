@@ -1,5 +1,3 @@
-# Emmanuel Adu
-
 ## Featured Projects
 
 **[ai-pipeline-orchestrator](https://github.com/emmanuel-adu/ai-pipeline-orchestrator)** ([npm](https://www.npmjs.com/package/ai-pipeline-orchestrator))
