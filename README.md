@@ -47,4 +47,4 @@ No-login research paper search across arXiv, Semantic Scholar, and Crossref, wit
 
 Before software, aerospace: patent holder for a real-time network security visualization platform, and published research on nuclear thermal propulsion cooling channels at AIAA SciTech 2022.
 
-- 🎓 M.S. CS (AI), Georgia Tech · B.S. Aeronautical & Astronautical Engineering, Ohio State
+🎓 M.S. CS (AI), Georgia Tech · B.S. Aeronautical & Astronautical Engineering, Ohio State
